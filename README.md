@@ -1,5 +1,7 @@
-### 420-W45-SF-4363E2024-Tp3
+### 420-W45-SF
 ### Installation de serveurs et de services
+### Cohorte 4363
+
 
 ## [Travail pratique 3](EFCSpartie1.md)
 
