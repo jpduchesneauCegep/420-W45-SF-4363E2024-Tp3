@@ -98,9 +98,11 @@ Vous devez fournir (déposé sur GitHub) :
       - Le dépôt doit inclure le fichier .traces\_d\_ansible. 
   - Tous les fichiers de votre travail à l'exception de la vidéo.  
   - Je dois trouver l'adresse (en hyperlien) de votre vidéo dans le fichier readme.md de votre projet.  
-  - Vous devez m'ajouter à votre dépôt comme collaborateur (jpduchesneauCeggep).
+  - Vous devez m'ajouter à votre dépôt comme collaborateur (jpduchesneauCegep).
   - Vous devez utiliser le format Markdown (md).
   - Vous devez donner vos sites de références.
+  - L'utilisation des commits git est fondamentales dans ce type de travail. 
+Nous devrions facilement retrouvé l'historique de votre travail en faisant afficher git logs.
 
 Votre vidéo :  
 
