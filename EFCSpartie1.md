@@ -128,8 +128,8 @@ Votre vidéo :
 ||Ansible|40||
 ||Voir les traces (fichier .traces\_d\_ansible) d'ansible |10||
 ||Présence des commits |5||
-|Compréhension|10||
-|**Total** |**100**||
+|Compréhension||10|
+|**Total** ||**100**||
 
 
 ## Informations supplémentaires :
